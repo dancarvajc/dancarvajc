@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning intermediate/advance SwiftUI topics
+- 👯 I’m looking to collaborate on any project about health, electronic and programming
+- 📫 How to reach me: Email: dmcarvajalc@pm.me | Twitter: @Daaaniel_CC
+
 <!--
 **dancarvajc/dancarvajc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
