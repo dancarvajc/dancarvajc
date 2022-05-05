@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning intermediate/advance SwiftUI topics
-- 👯 I’m looking to collaborate on any project about health, electronic and programming
+- 👯 I’m looking to collaborate on any project about health, electronic and/or iOS programming
 - 📫 How to reach me: Email: dmcarvajalc@pm.me | Twitter: @Daaaniel_CC
 
 <!--
